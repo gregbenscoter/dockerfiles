@@ -26,11 +26,11 @@
         },
         "charset-normalizer": {
             "hashes": [
-                "sha256:5189b6f22b01957427f35b6a08d9a0bc45b46d3788ef5a92e978433c7a35f8a5",
-                "sha256:575e708016ff3a5e3681541cb9d79312c416835686d054a23accb873b254f413"
+                "sha256:5a3d016c7c547f69d6f81fb0db9449ce888b418b5b9952cc5e6e66843e9dd845",
+                "sha256:83e9a75d1911279afd89352c68b45348559d1fc0506b054b346651b5e7fee29f"
             ],
             "markers": "python_full_version >= '3.6.0'",
-            "version": "==2.1.0"
+            "version": "==2.1.1"
         },
         "idna": {
             "hashes": [
@@ -42,10 +42,11 @@
         },
         "intezer-sdk": {
             "hashes": [
-                "sha256:3ad4cef85567b00134bb490cb7137bb188b2e324dbe2363214fdf098ed25d98c"
+                "sha256:602679d69f8345b8ddd10d1ac7ac20d6e43d0c0c9aee4c816aa663e71726a40b",
+                "sha256:b3892f74a5fea1dc984a78b86f197c0e1fc8fa2101f8b488abd92a22aea5b35c"
             ],
             "index": "pypi",
-            "version": "==1.9.4"
+            "version": "==1.11"
         },
         "requests": {
             "hashes": [
