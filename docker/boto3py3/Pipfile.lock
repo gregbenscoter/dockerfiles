@@ -18,19 +18,19 @@
     "default": {
         "boto3": {
             "hashes": [
-                "sha256:19ce58ed29d8b9dc892c06978c0097e7149641511c6b41142ecfee0a5ed19b5b",
-                "sha256:c960712b3a833d321a997a9fb59f3da21b026d5a23727c9cb49866d3794cdb67"
+                "sha256:59e9c39c867b5fd0575a50d8fafdf72c823c5510254a8615dff24f1584408121",
+                "sha256:c1d4e5d73d7720402c6538965efd6df5807492db8a71f30221dc11355d06db05"
             ],
             "index": "pypi",
-            "version": "==1.24.49"
+            "version": "==1.24.86"
         },
         "botocore": {
             "hashes": [
-                "sha256:8e9556ef9f7f492e0755437a1430e32f63ddaf6df61c105957805067b5e22dbb",
-                "sha256:ac491c54cdf4126c98a999c5d473d734dc91c5b1e003d0fdafd5007d1408d046"
+                "sha256:830359c8bf22f2a386431825060ff9666519c032f2ccd4a69f1a702f7195f6c0",
+                "sha256:dcfe1825b84d17cf11653f8bb4bc77c2f172dcec1dc68eee932d68e5e6ed89d5"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.27.49"
+            "version": "==1.27.86"
         },
         "jmespath": {
             "hashes": [
@@ -66,11 +66,11 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:c33ccba33c819596124764c23a97d25f32b28433ba0dedeb77d873a38722c9bc",
-                "sha256:ea6e8fb210b19d950fab93b60c9009226c63a28808bc8386e05301e25883ac0a"
+                "sha256:3fa96cf423e6987997fc326ae8df396db2a8b7c667747d47ddd8ecba91f4a74e",
+                "sha256:b930dd878d5a8afb066a637fbb35144fe7901e3b209d1cd4f524bd0e9deee997"
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5' and python_version < '4'",
-            "version": "==1.26.11"
+            "version": "==1.26.12"
         }
     },
     "develop": {}
