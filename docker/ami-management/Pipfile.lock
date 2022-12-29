@@ -26,19 +26,19 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:19ce58ed29d8b9dc892c06978c0097e7149641511c6b41142ecfee0a5ed19b5b",
-                "sha256:c960712b3a833d321a997a9fb59f3da21b026d5a23727c9cb49866d3794cdb67"
+                "sha256:7319d89fd7f901eb6316398b2bffe3f719a483901c69705385ccff6f38feb291",
+                "sha256:9def744f663d556fc1d6222b8a4eebd426300ae2365cbeaa1d153b3e723b7156"
             ],
             "index": "pypi",
-            "version": "==1.24.49"
+            "version": "==1.26.39"
         },
         "botocore": {
             "hashes": [
-                "sha256:8e9556ef9f7f492e0755437a1430e32f63ddaf6df61c105957805067b5e22dbb",
-                "sha256:ac491c54cdf4126c98a999c5d473d734dc91c5b1e003d0fdafd5007d1408d046"
+                "sha256:3f48020d7d51bbd68e51c1fbf6ecac139579aa50378c0ca83d4f908313041be9",
+                "sha256:c8f7c8de902e42b71dbf7e2205a40a1aab8b1fb37342d8fdff198cc1610c39c7"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.27.49"
+            "version": "==1.29.39"
         },
         "coloredlogs": {
             "hashes": [
@@ -90,11 +90,11 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:c33ccba33c819596124764c23a97d25f32b28433ba0dedeb77d873a38722c9bc",
-                "sha256:ea6e8fb210b19d950fab93b60c9009226c63a28808bc8386e05301e25883ac0a"
+                "sha256:47cc05d99aaa09c9e72ed5809b60e7ba354e64b59c9c173ac3018642d8bb41fc",
+                "sha256:c083dd0dce68dbfbe1129d5271cb90f9447dea7d52097c6e0126120c521ddea8"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5' and python_version < '4'",
-            "version": "==1.26.11"
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'",
+            "version": "==1.26.13"
         }
     },
     "develop": {}
